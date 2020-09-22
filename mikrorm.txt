@@ -1,0 +1,3 @@
+npx mikro-orm migration:create // urobi migraciu
+
+yarn create next-app --example with-chakra-ui leddit-wed
